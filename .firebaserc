@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "capestore-task1-run"
   },
   "targets": {},
   "etags": {}
